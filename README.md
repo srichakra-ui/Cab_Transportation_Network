@@ -30,4 +30,4 @@ Nowadays cabs are a major part of metropolitan transport system,where people fin
  * Carry out the VLAN protocol.
 
 # Conclusion
-Our objective to be able to book a cabwith regards to their departure and destination places using socket programming, Vlan , rip routing also to createa track record of all the fare details and also to show the structure of the network .Incase the message has failed to reach from server to client, the message will be re-transmitted via Selective Repeat & GoBackN. And the model has been implemented in Cisco Packet Tracer.
+Our objective to be able to book a cab with regards to their departure and destination places using socket programming, Vlan , rip routing also to create a track record of all the fare details and also to show the structure of the network .Incase the message has failed to reach from server to client, the message will be re-transmitted via Selective Repeat & GoBackN. And the model has been implemented in Cisco Packet Tracer.
